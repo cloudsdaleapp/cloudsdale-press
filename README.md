@@ -1,7 +1,7 @@
 # ![CloudsdaleApp](https://secure.gravatar.com/avatar/006b4dec507eaac9967970a1cd967167?s=22) Cloudsdale - Press Pack & Style Guide
 This is the official Cloudsdale press pack including all **colors**, **images**, **fonts** and the proper way to use them.
 
-**********************************
+***********************************
 
 ## Colors
 
